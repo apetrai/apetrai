@@ -15,4 +15,5 @@
   <li><strong>Bash</strong></li>
  </ul>
   
-  ##### My portofolio : https://apetrai.gtihub.io
+  ##### My <a href="https://apetrai.gtihub.io"> portofolio </a>
+  ##### <a href="https://apetrai.gtihub.io"> StackOverflow </a>
