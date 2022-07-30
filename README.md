@@ -17,3 +17,4 @@
   
   ##### My <a href="https://apetrai.gtihub.io"> portofolio </a>
   ##### <a href="https://apetrai.gtihub.io"> StackOverflow </a>
+  ##### Reach me at agjelo.petraj10@gmail.com
