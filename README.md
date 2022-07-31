@@ -13,7 +13,7 @@
   <li><strong>CSS</strong><img height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></li>
   <li><strong>JavaScript</strong>  <img height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></li>
   <li><strong>Bash</strong>  <img height="30px" src="https://www.pngfind.com/pngs/m/261-2614514_bash-logo-shell-script-logo-png-transparent-png.png"></li>
-   <li><strong>CSS</strong> <img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"></li>
+   <li><strong>Linux</strong> <img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"></li>
  </ul>
  
 ## Links
