@@ -19,5 +19,5 @@
  
 ## Links
    <a href="https://stackoverflow.com/users/17175449/apetrai"><img height="30px" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.png"></a><br>
-   My <a href="https://apetrai.gtihub.io"> portofolio </a><br>
+   My <a href="https://apetrai.github.io"> portofolio </a><br>
    Reach me at agjelo.petraj10@gmail.com<br>
