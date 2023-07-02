@@ -13,7 +13,7 @@
    > You can simply encode and decode morse code on a CLI, you can view the repository <a href="https://github.com/apetrai/MorseCode_keyer">here</a>
    
    #### 📡 Project 2: My Personal Website portofolio
-   > A  <a href="https://apetrai.github.io">portofolio website</a> built on HTML, CSS, and JavaScript contains information about all of my projects.
+   > A  <a href="https://apetrai.github.io">portofolio website</a> built on HTML, CSS, and JavaScript that contains information about all of my projects.
 
 
 ### 👨‍💻 Education
