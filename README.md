@@ -2,8 +2,7 @@
 ## About Me
 Hi, I’m Angelo, I’m 16 years old and I’m passionate about software 
 and I have been myself web technologies like HTML, CSS, and 
-JavaScript and especially C++. If you would like to take a look, 
-please visit my GitHub account here to view all of my projects. I 
+JavaScript and especially C++. I 
 aspire to become a software engineer and I’m currently looking for 
 the right opportunity. Thank you.
 
