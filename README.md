@@ -1,11 +1,14 @@
 # Angelo Petrai's Portfolio
 ## About Me
-Hi, I’m Angelo, I’m 16 years old and I’m passionate about software 
-and I have been myself web technologies like HTML, CSS, and 
-JavaScript and especially C++. I 
-aspire to become a software engineer and I’m currently looking for 
-the right opportunity. Thank you.
-
+Hi, I’m Angelo, I’m 16 years old and I’m passionate self-learning software developer with hands-on 
+experience in C++, JavaScript, and web technologies. Currently 
+expanding my skills by working on personal projects, including 
+coding challenges and learning advanced concepts in C++. Actively 
+preparing for future opportunities in software development and 
+looking to contribute to meaningful projects. I aim to leverage my 
+growing technical knowledge to pursue a career in software 
+engineering and contribute to innovative teams in the tech 
+industry.
 
 ### Skills  <br>
    * Languages: C++, C, HTML, CSS, JavaScript
