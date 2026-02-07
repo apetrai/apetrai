@@ -1,6 +1,6 @@
 # Angelo Petrai's Portfolio
 ## About Me
-Hi, I’m Angelo, I’m passionate self-learning software developer with hands-on 
+Hi, I’m Angelo, I’m a passionate self-learning software developer with hands-on 
 experience in C++, JavaScript, and web technologies. Currently 
 expanding my skills by working on personal projects, including 
 coding challenges and learning advanced concepts in C++. Actively 
